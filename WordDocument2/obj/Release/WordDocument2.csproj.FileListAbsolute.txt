@@ -1,0 +1,14 @@
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\bin\Release\WordDocument2.dll
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\bin\Release\WordDocument2.pdb
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\bin\Release\WordDocument2.dll.manifest
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\bin\Release\WordDocument2.vsto
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\bin\Release\COVID-19.docx
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\bin\Release\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\obj\Release\WordDocument2.Properties.Resources.resources
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\obj\Release\WordDocument2.csproj.GenerateResource.cache
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\obj\Release\WordDocument2.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\obj\Release\WordDocument2.csproj.CopyComplete
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\obj\Release\WordDocument2.dll
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\obj\Release\WordDocument2.pdb
+C:\Users\Aaron\source\repos\WordDocument2\WordDocument2\obj\Release\WordDocument2.csprojAssemblyReference.cache
